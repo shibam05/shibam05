@@ -10,6 +10,7 @@
 <a href="https://www.linkedin.com/in/shibam-biswas-9b5276256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
 <a href="https://twitter.com/tweetshibam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-handle" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/your-instagram-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-handle" height="30" width="40" /></a> -->
+<a href="https://leetcode.com/u/shibam05/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" alt="your-leetcode-handle" height="30" width="40" /></a>
 </p>
 
 <hr>
@@ -80,3 +81,5 @@
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shibam05&show_icons=true&locale=en" alt="shibam05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shibam05&" alt="shibam05" /></p>
+
+![](https://leetcard.jacoblin.cool/shibam05?animation=false)
