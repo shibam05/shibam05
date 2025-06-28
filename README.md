@@ -82,4 +82,4 @@
 
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shibam05&show_icons=true&locale=en" alt="shibam05" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shibam05&" alt="shibam05" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shibam05&" alt="shibam05" /></p>
