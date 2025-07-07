@@ -33,9 +33,9 @@
 <p align="left">
   <a href="https://nodejs.org">
     <img src="https://skillicons.dev/icons?i=nodejs" height= 55 width=60 />
-  </a>    
+  </a>  
   <a href="https://expressjs.com">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/ExpressJS-Dark.svg" height =55 width=60" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/ExpressJS-Dark.svg" height =50 width=60" />
   </a>
   
 </p>
@@ -52,30 +52,39 @@
   </a>
   
 </p>
+
 <hr>
 
 <details>
-<summary><strong><span style="font-size: 1.5em; color: #3b82f6
-;">📈 View my GitHub & LeetCode Stats</span></strong></summary>
+<summary><strong><span style="font-size: 1.5em; color: #3b82f6;">📈 View my GitHub & LeetCode Stats</span></strong></summary>
 
 <br>
 
-<!-- GitHub Stats -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shibam05&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shibam05&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shibam05" alt="GitHub Streak" />
-</p>
-
-<!-- LeetCode Stats -->
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/shibam05?animation=true" alt="LeetCode Stats" />
-</p>
+<table>
+  <tr>
+    <td align="left">
+      <p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shibam05&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      </p>
+    </td>
+    <td align="right">
+      <p>
+        <img src="https://github-readme-stats.vercel.app/api?username=shibam05&show_icons=true&locale=en" alt="GitHub Stats" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <p>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shibam05" alt="GitHub Streak" />
+      </p>
+    </td>
+    <td align="right">
+      <p>
+        <img src="https://leetcard.jacoblin.cool/shibam05?animation=true" alt="LeetCode Stats" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 </details>
