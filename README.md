@@ -13,7 +13,6 @@
 <a href="https://leetcode.com/u/shibam05/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" alt="your-leetcode-handle" width="60" /></a>
 </p>
 
-
 <hr>
 
 <h3 align="left">Languages:</h3>
@@ -32,8 +31,7 @@
 <h3 align="left">Backend Development:</h3>
 <p align="left">
   <a href="https://nodejs.org">
-    <img src="https://skillicons.dev/icons?i=nodejs" height= 55 width=60 />
-  </a>  
+    <img src="https://skillicons.dev/icons?i=nodejs" height= 55 width=60/></a>
   <a href="https://expressjs.com">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/ExpressJS-Dark.svg" height =55 width=60" />
   </a>
@@ -41,8 +39,14 @@
 </p>
 
 <h3 align="left">Database:</h3>
-
-  [![My Skills](https://skillicons.dev/icons?i=mongo,mysql&theme=light)](https://skillicons.dev)
+  <p align="left">
+  <a href="https://mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MongoDB.svg" alt="MongoDB" width="55" height="60"/>
+  </a>
+  &thinsp;
+  <a href="https://mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Light.svg" alt="MySQL" width="55" height="60"/>
+  </a>
 </p>
 
 <h3 align="left">Tools:</h3>
