@@ -35,7 +35,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs" height= 55 width=60 />
   </a>  
   <a href="https://expressjs.com">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/ExpressJS-Dark.svg" height =50 width=60" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/ExpressJS-Dark.svg" height =55 width=60" />
   </a>
   
 </p>
@@ -54,10 +54,8 @@
 </p>
 
 <hr>
-
 <details>
 <summary><strong><span style="font-size: 1.5em; color: #3b82f6;">📈 View my GitHub & LeetCode Stats</span></strong></summary>
-
 <br>
 
 <table>
