@@ -43,7 +43,6 @@
   <a href="https://mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MongoDB.svg" alt="MongoDB" width="55" height="60"/>
   </a>
-  &thinsp;
   <a href="https://mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Light.svg" alt="MySQL" width="55" height="60"/>
   </a>
